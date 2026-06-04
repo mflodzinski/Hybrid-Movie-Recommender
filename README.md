@@ -63,5 +63,3 @@ Ranking at k=10:
 | Bayesian Personalized Ranking (BPR) | 0.2137 | 0.0930 | 0.1778 |
 | Popularity Recommender | 0.2231 | 0.1048 | 0.1842 |
 | **Hybrid Model (Ranking)** | **0.3194** | **0.1224** | **0.3100** |
-
-## Notes
