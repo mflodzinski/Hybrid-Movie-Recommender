@@ -65,5 +65,3 @@ Ranking at k=10:
 | **Hybrid Model (Ranking)** | **0.3194** | **0.1224** | **0.3100** |
 
 ## Notes
-
-Predictions, trained model pickles, plots, and zip archives are generated artifacts and are intentionally ignored by Git. Regenerate them through the notebook or package utilities as needed.
