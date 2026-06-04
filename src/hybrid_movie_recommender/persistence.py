@@ -18,6 +18,7 @@ from tqdm import tqdm
 import joblib
 import torch
 import torch.nn as nn
+from sklearn.linear_model import Ridge
 
 from .models.bpr import BayesianProbabilisticRanking
 from .models.content import ContentBasedCF
